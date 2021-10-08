@@ -1,0 +1,21 @@
+/**style etape 3**/
+body {
+
+    margin: 10px 0;
+    font: 0.8em 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #ddeeaa; 
+}
+#conteneur {
+    width: 500px;
+    margin: 0 auto;
+    background-color: #fff;
+    border: 2px solid #bb4;
+}
+
+#header {
+    line-height: 250px;
+}
+
+
+
+
